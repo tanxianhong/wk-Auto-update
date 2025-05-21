@@ -38,17 +38,19 @@ GitHub Actions 会每日 00:00（UTC 时间）自动运行：
 
 ---
 
+
 ## 📂 目录结构
 
 /
-├── _worker.js         
-├── version.txt        
-├── LICENSE            
-├── .gitignore         
-├── README.md          
-└── .github/
-    └── workflows/
-        └── update_worker.yml
+├── `_worker.js`
+├── `version.txt`
+├── **`update_type.txt`**
+├── `LICENSE`
+├── `.gitignore`
+├── `README.md`
+└── `.github/`
+    └── `workflows/`
+        └── `update_worker.yml`
 
 ---
 
